@@ -1,0 +1,6 @@
+{
+  "package_name": "action_server",
+  "non_idl_tuples": [
+    "/home/timoha/features/features_ws/src/action_server:action/Fibonacci.action"
+  ]
+}

@@ -1,0 +1,33 @@
+[0.518s] Invoking command in '/home/timoha/features/features_ws/src/navigation_sim': PYTHONPATH=/home/timoha/features/features_ws/build/navigation_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/timoha/features/features_ws/install/navigation_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/navigation_sim build --build-base /home/timoha/features/features_ws/build/navigation_sim/build install --record /home/timoha/features/features_ws/build/navigation_sim/install.log --single-version-externally-managed install_data
+[0.699s] running egg_info
+[0.700s] creating ../../build/navigation_sim/navigation_sim.egg-info
+[0.700s] writing ../../build/navigation_sim/navigation_sim.egg-info/PKG-INFO
+[0.700s] writing dependency_links to ../../build/navigation_sim/navigation_sim.egg-info/dependency_links.txt
+[0.700s] writing entry points to ../../build/navigation_sim/navigation_sim.egg-info/entry_points.txt
+[0.700s] writing requirements to ../../build/navigation_sim/navigation_sim.egg-info/requires.txt
+[0.700s] writing top-level names to ../../build/navigation_sim/navigation_sim.egg-info/top_level.txt
+[0.700s] writing manifest file '../../build/navigation_sim/navigation_sim.egg-info/SOURCES.txt'
+[0.701s] reading manifest file '../../build/navigation_sim/navigation_sim.egg-info/SOURCES.txt'
+[0.702s] writing manifest file '../../build/navigation_sim/navigation_sim.egg-info/SOURCES.txt'
+[0.702s] running build
+[0.702s] running build_py
+[0.702s] creating /home/timoha/features/features_ws/build/navigation_sim/build
+[0.702s] creating /home/timoha/features/features_ws/build/navigation_sim/build/lib
+[0.702s] creating /home/timoha/features/features_ws/build/navigation_sim/build/lib/navigation_sim
+[0.702s] copying navigation_sim/__init__.py -> /home/timoha/features/features_ws/build/navigation_sim/build/lib/navigation_sim
+[0.702s] running install
+[0.702s] running install_lib
+[0.703s] creating /home/timoha/features/features_ws/install/navigation_sim/lib/python3.10/site-packages/navigation_sim
+[0.703s] copying /home/timoha/features/features_ws/build/navigation_sim/build/lib/navigation_sim/__init__.py -> /home/timoha/features/features_ws/install/navigation_sim/lib/python3.10/site-packages/navigation_sim
+[0.703s] byte-compiling /home/timoha/features/features_ws/install/navigation_sim/lib/python3.10/site-packages/navigation_sim/__init__.py to __init__.cpython-310.pyc
+[0.703s] running install_data
+[0.703s] creating /home/timoha/features/features_ws/install/navigation_sim/share/ament_index
+[0.703s] creating /home/timoha/features/features_ws/install/navigation_sim/share/ament_index/resource_index
+[0.703s] creating /home/timoha/features/features_ws/install/navigation_sim/share/ament_index/resource_index/packages
+[0.703s] copying resource/navigation_sim -> /home/timoha/features/features_ws/install/navigation_sim/share/ament_index/resource_index/packages
+[0.703s] copying package.xml -> /home/timoha/features/features_ws/install/navigation_sim/share/navigation_sim
+[0.704s] running install_egg_info
+[0.705s] Copying ../../build/navigation_sim/navigation_sim.egg-info to /home/timoha/features/features_ws/install/navigation_sim/lib/python3.10/site-packages/navigation_sim-0.0.0-py3.10.egg-info
+[0.705s] running install_scripts
+[0.719s] writing list of installed files to '/home/timoha/features/features_ws/build/navigation_sim/install.log'
+[0.738s] Invoked command in '/home/timoha/features/features_ws/src/navigation_sim' returned '0': PYTHONPATH=/home/timoha/features/features_ws/build/navigation_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/timoha/features/features_ws/install/navigation_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/navigation_sim build --build-base /home/timoha/features/features_ws/build/navigation_sim/build install --record /home/timoha/features/features_ws/build/navigation_sim/install.log --single-version-externally-managed install_data
